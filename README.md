@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+### Hi there I am Hritik Arya👋
 ### 🌱 I’m currently learning Ethical-Hacking & Pentesting
 ### 👯 I’m looking to collaborate on Projects based on Bash,Python
 ### 💬 Ask me about CyberSecurity
