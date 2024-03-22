@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there I am Hritik Arya👋
-### 🌱 I’m currently learning Ethical-Hacking & Pentesting
+### 🌱 I’m currently learning & Teaching Ethical-Hacking & Pentesting
 ### 👯 I’m looking to collaborate on Projects based on Bash,Python
 ### 💬 Ask me about CyberSecurity
 
